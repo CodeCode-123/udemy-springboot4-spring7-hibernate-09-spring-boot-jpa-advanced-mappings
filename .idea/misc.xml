@@ -5,6 +5,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/01-jpa-one-to-one-uni/pom.xml" />
+        <option value="$PROJECT_DIR$/02-jpa-one-to-one-bi/pom.xml" />
       </list>
     </option>
   </component>
